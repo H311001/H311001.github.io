@@ -1,5 +1,7 @@
-.room {
-    font-size: 21px;
-    color: #8b4e1f;
-    text-indent: 0;
+h1 {
+    font-family: "Playfair Display", Georgia, serif;
+    font-size: 56px;
+    font-weight: 700;
+    font-style: italic;
+    color: #d98301;
 }
