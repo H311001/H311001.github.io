@@ -1,11 +1,12 @@
 body {
     background-color: #b8c6de;
     font-family: "Courier Prime", monospace;
-    font-size: 17px;
+    font-size: 16px;
     line-height: 1.7;
     max-width: 700px;
     margin: 0 auto;
     padding: 60px 24px 120px;
+    color: #00556b3;
 }
 
 h1 {
